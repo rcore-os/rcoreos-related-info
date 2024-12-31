@@ -8,5 +8,6 @@
 - [rustdoc of arceos](https://arceos.org/arceos/)
 
 ## related softs
+- [kernel crates](https://github.com/kern-crates)
 - [hypervisor -- arceos-umhv](https://github.com/arceos-hypervisor/)
 - [monolithic kernel--starry](https://github.com/arceos-org/starry-next)
