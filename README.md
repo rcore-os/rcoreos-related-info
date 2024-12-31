@@ -1,2 +1,2 @@
 # arceos related docs
-- [yuekai jia phd thesis](./main-0527.pdf)
+- [Ph.D thesis of Yuekai Jia](./main-0527.pdf)
