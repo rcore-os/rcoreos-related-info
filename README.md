@@ -15,6 +15,22 @@
 ## online rustdoc of arceos
 - [rustdoc of arceos](https://arceos.org/arceos/)
 
+## hardware platforms support
+
+| arch-platform name |  Description |
+| ---- | ---- |
+| [aarch64-bsta1000b](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-aarch64-bsta1000bv) | Black Sesame Technology A1000b SoC |
+| [aarch64-peripherals](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-aarch64-peripherals) | Common peripheral drivers for ARM64 platforms |
+|[aarch64-phytium-pi](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-aarch64-phytium-pi)| Phytium Pi board |
+|[aarch64-qemu-virt](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-aarch64-qemu-virt) | QEMU ARM64 virtual machine |
+|[aarch64-raspi](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-aarch64-raspi) | Raspberry Pi 4B board |
+|[loongarch64-qemu-virt](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-loongarch64-qemu-virt) | QEMU LoongArch virtual machine |
+|[riscv64-qemu-virt](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-riscv64-qemu-virt) | QEMU RISC-V virt board |
+|[x64-pc](https://github.com/arceos-org/axplat_crates/tree/main/platforms/axplat-x86-pc) | x86-64 Standard PC machine. |
+
+
+
+
 ## related softs
 - [kernel crates](https://github.com/kern-crates)
 - [hypervisor -- axvisor](https://github.com/arceos-hypervisor/axvisor)
